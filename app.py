@@ -7,9 +7,10 @@ import os
 app = Flask(__name__)
 
 # --- Configuration ---
-# Replace with your actual Gemini API Key
-genai.configure(api_key="AIzaSyCcWHZGaIcv2LOZ16um7YeW7JJoEJE2JCU")
-gemini_model = genai.GenerativeModel('gemini-3-flash-preview')
+import google.generativeai as genai
+
+genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+gemini_model = genai.GenerativeModel("gemini-3-flash-preview")
 
 # Load the ML model
 try:
