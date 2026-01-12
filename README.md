@@ -1,5 +1,5 @@
 ```markdown
-  🚀 ### InternChance Pro - AI Career Architect   ( https://internchance.onrender.com) 
+  🚀InternChance Pro - AI Career Architect   ( https://internchance.onrender.com) 
 
   InternChance Pro   is an intelligent career dashboard designed to help students evaluate their internship readiness and receive personalized, AI-driven coaching.
 
@@ -7,7 +7,7 @@ By combining Machine Learning (Random Forest) for probability prediction and Gen
 
 ---
 
-   ✨ Features
+   ✨ Features 
 
     📊 1. AI Probability Predictor
 - Uses a trained Machine Learning model   (Random Forest) to analyze student stats.
