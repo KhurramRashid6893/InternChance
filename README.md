@@ -9,7 +9,7 @@ By combining Machine Learning (Random Forest) for probability prediction and Gen
 
    ✨ Features  
 
-    📊 1. AI Probability Predictor
+     1. AI Probability Predictor
 - Uses a trained Machine Learning model   (Random Forest) to analyze student stats.
 -   Inputs: CGPA, DSA Problems Solved, Projects, Hackathons, Certifications.
 -   Output:   A percentage probability of being shortlisted for top-tier internships.
